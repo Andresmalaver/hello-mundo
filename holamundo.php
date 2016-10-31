@@ -3,9 +3,15 @@
 <body>
 <h1>Hola mundo</h1>
 <?php
-echo "Su nombre:<input type='text'>"
 
 ?>
+
+
+<form method="post" action="./backend.php">
+
+Su nombre:<input type='text' name='nombre'>
+
+</form>
 </body>
 </head>
 </html>
