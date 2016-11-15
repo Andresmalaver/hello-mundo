@@ -1,0 +1,7 @@
+<?php $_config_vars = array (
+  'emphstart' => '<strong>',
+  'emphend' => '</strong>',
+  'title' => 'bienvendio a la {$company}',
+  'ErrorCity' => 'Tu must supy a {#emphstart}cty{#emphend#}.',
+  'ErrorState' => 'Tu must suppy a {#emphstart#}state{#emphend#}.',
+); ?>
